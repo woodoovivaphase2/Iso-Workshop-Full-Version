@@ -241,4 +241,4 @@ This repository serves as the official landing page for ISO Workshop. The softwa
 **Get the most recent version of ISO Workshop today!**
 
 ---
-**Last updated:** 2026-10-16 23:19:19 UTC
+**Last updated:** 2026-10-17 03:36:11 UTC
